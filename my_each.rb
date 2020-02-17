@@ -1,7 +1,7 @@
 require 'pry'
 
 def my_each(array)
-  i = l
+  i = 0
   while - < array.length
   yield(array[i])
   i = i = 1
