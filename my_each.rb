@@ -5,7 +5,7 @@ require 'pry'
     while i < array.length
     yield(array[i])
     i = i = 1
-    binding.pry
+    
   
     # code here
   end
