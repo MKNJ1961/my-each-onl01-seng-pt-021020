@@ -1,3 +1,6 @@
-def my_each # put argument(s) here
+require 'pry'
+
+def my_each(array)
+
   # code here
 end
